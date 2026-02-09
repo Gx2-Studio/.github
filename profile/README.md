@@ -1,2 +1,4 @@
 # Gx2 Studio
-[Website](https://gx2-studio.com/)
+Digital Products Engineering
+
+[gx2-studio.com](https://gx2-studio.com/)
